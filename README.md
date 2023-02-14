@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oliver K</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
- 🌱 I’m currently learning **bla**
+ 🌱 Self-taught developer with a passion for learning and building new things. Still relatively new to the field, but eager to improve my skills and take on new challenges. Currently exploring different technologies and languages to find my niche. Excited to collaborate with others and contribute to open source projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
